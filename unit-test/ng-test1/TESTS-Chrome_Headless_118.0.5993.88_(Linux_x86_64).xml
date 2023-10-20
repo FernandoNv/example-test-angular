@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<testsuite name="Chrome Headless 118.0.5993.88 (Linux x86_64)" package="" timestamp="2023-10-18T13:28:38" id="0" hostname="versatil-estagio" tests="8" errors="0" failures="0" time="0.043">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/118.0.5993.88 Safari/537.36"/>
+  </properties>
+  <testcase name="LikeWidgetComponent #onLike &#xA;  should trigger (@Output liked) emission when called" time="0.033" classname="Chrome_Headless_118_0_5993_88_(Linux_x86_64).LikeWidgetComponent"/>
+  <testcase name="LikeWidgetComponent Should NOT auto-generate ID during ngOnInit when (@Input id) is assigned" time="0.003" classname="Chrome_Headless_118_0_5993_88_(Linux_x86_64).LikeWidgetComponent"/>
+  <testcase name="LikeWidgetComponent Should auto-generate ID during ngOnInput when (@Input id) is not assigned" time="0.003" classname="Chrome_Headless_118_0_5993_88_(Linux_x86_64).LikeWidgetComponent"/>
+  <testcase name="LikeWidgetComponent Should create" time="0.003" classname="Chrome_Headless_118_0_5993_88_(Linux_x86_64).LikeWidgetComponent"/>
+  <testcase name="UniqueIdService #generateUniqueIdWithPrefix should generate id when called with prefix" time="0" classname="Chrome_Headless_118_0_5993_88_(Linux_x86_64).UniqueIdService"/>
+  <testcase name="UniqueIdService #generateUniqueIdWithPrefix should throw an Error when called with empty value" time="0.001" classname="Chrome_Headless_118_0_5993_88_(Linux_x86_64).UniqueIdService"/>
+  <testcase name="UniqueIdService #getNumberOfGeneratedIds should return the number of generateIds when called" time="0" classname="Chrome_Headless_118_0_5993_88_(Linux_x86_64).UniqueIdService"/>
+  <testcase name="UniqueIdService #generateUniqueIdWithPrefix should not generate duplicate IDs when called multiple times" time="0" classname="Chrome_Headless_118_0_5993_88_(Linux_x86_64).UniqueIdService"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
